@@ -1,0 +1,10 @@
+$theme-colors: (
+    'primary': #F23005
+);
+
+$form-feedback-invalid-color: #0D0D0D;
+$body-bg: #F2F2F2;
+$body-color: #0D0D0D;
+
+@import '~bootstrap/scss/bootstrap.scss';
+

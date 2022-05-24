@@ -1,0 +1,31 @@
+.content-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.content-card {
+  margin: 15px 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 24px;
+  width: 280px;
+}
+
+.content-card h3 {
+  font-size: 1.25em;
+  margin-bottom: 5px;
+}
+
+.content-card p {
+  font-size: 0.75em;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+}
+
+.content-card img {
+  width: 150px;
+  height: 150px;
+  margin: 10px 0px;
+}
